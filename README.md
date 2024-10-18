@@ -5,7 +5,7 @@ User Authentication: Admin login system.
 Add, Update, Delete: Perform CRUD operations on books, members, and records.
 Borrow/Return Books: Track which member borrowed which book.
 
-🛠️ Technologies Used
+Technologies Used
 Backend: PHP
 Frontend: HTML, CSS, Bootstrap
 Database: MySQL (for storing books, members, and transaction data)
